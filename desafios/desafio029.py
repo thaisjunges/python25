@@ -14,4 +14,4 @@ if int(velocidade_atual) > int(velocidade_maxima):
 
     print('Multado no valor de R$ {}'.format(valor_total))
 else:
-    print("Não multado") 
+    print("Não multado")
