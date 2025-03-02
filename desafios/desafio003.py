@@ -1,7 +1,5 @@
-#CRIE UM PROGRAMA QUE LEIA DOIS NÚMEROS E MOSTRE A SOMA ENTRE ELES
-
-num1 = int(input("Digite um número: "))
-num2 = int(input("Digite o segundo número: "))
-
-soma = (num1) + (num2)
-print("A soma entre os números {} e {} é {}".format(num1,num2,soma))
+#CRIE UM PROGRAMA QUE LEIA DOIS NÚMEROS E A MOSTRE A SOMA ENTRE ELES.
+n1 = int(input('Digite o primeiro número: '))
+n2 = int(input('Digite o segundo número: '))
+soma = n1 + n2
+print("O soma entre os números {} e {} é {}".format(n1,n2,soma))
