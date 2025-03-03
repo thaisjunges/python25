@@ -16,7 +16,7 @@ print(sorteado)
 
 sequencia = random.shuffle(sorteado)
 
-for indice 
+
 
 print(sequencia)
 
