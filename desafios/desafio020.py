@@ -11,12 +11,9 @@ alunos = [
     aluno1, aluno2, aluno3, aluno4
 ]
 
-sorteado = random.choice(alunos)
-print(sorteado)
+sequencia = random.shuffle(alunos)
 
-sequencia = random.shuffle(sorteado)
-
-
+for indice 
 
 print(sequencia)
 
